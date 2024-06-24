@@ -1,0 +1,5 @@
+1,domain,Ana Maria Ivona,closed
+2,repo,Silviu Bogdan,inprogress
+3,service,David Stefan,open
+4,exceptions,Ana Ivona,closed
+5,validator,Ana Silviu,inprogress
